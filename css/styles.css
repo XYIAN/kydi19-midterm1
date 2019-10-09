@@ -1,12 +1,13 @@
 header, main, nav, footer 
 {
   text-align: center; 
+  display:flex;
   
 }
 body 
 { 
-  background-color : black ;
-  color:white; 
+  background-color : maroon ;
+  color: orange; 
   justify-content:center;
   
 }
